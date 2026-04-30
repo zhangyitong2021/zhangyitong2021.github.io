@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://zhangyitong2021.github.io/sitemap.xml
+Disallow: /
